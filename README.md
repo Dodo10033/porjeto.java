@@ -1,3 +1,4 @@
-# porjeto.java
+# porjeto.java.poo
 meu primeiro projeto github.java
-poo (Programação orientada a objetos)
+
+projeto de poo (Programação orientada a objetos).
